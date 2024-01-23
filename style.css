@@ -1,0 +1,21 @@
+footer {
+    text-align: center;
+    font-family: Roberto 'Courier New', Courier, monospace;
+    background: black;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    border-radius: 25%;
+    color: white;
+}
+
+.container {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 25%;
+    font-size: 8rem;
+}
